@@ -32,5 +32,5 @@ OpenWeatherMap API
 Bootstrap Icons
 
 FlagCDN
-
+## 🎬 Demo
 ![Weather App Demo](./weather-app%20.gif)
