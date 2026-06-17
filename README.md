@@ -3,7 +3,7 @@ A responsive weather forecast web app for UK cities. Built with Vanilla JavaScri
 
 ##  Features
 
-🔍 Search any UK city and get instant weather data
+. 🔍 Search any UK city and get instant weather data
 📍 Detect your current location automatically
 🌡️ Switch between °C and °F
 🌙 Toggle between Dark and Light mode
