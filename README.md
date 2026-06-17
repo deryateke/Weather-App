@@ -1,5 +1,7 @@
 ## 🌤️ Weather Forecast App
-A responsive weather forecast web app for UK cities. Built with Vanilla JavaScript and OpenWeatherMap API. Features real-time weather data, dark/light mode, unit toggle (°C/°F), geolocation support, and recent search history.
+A responsive weather forecast web app for UK cities.
+Built with Vanilla JavaScript and OpenWeatherMap API. 
+Features real-time weather data, dark/light mode, unit toggle (°C/°F), geolocation support, and recent search history.
 
 ##  Features
 
@@ -20,8 +22,13 @@ A responsive weather forecast web app for UK cities. Built with Vanilla JavaScri
 ##  Technologies Used
 
 HTML5
+
 SCSS
+
 Vanilla JavaScript (ES6 Modules)
+
 OpenWeatherMap API
+
 Bootstrap Icons
+
 FlagCDN
