@@ -33,4 +33,4 @@ Bootstrap Icons
 
 FlagCDN
 
-![Weather App Demo](./weather-app.gif)
+![Weather App Demo](./assets/weather-app.gif)
